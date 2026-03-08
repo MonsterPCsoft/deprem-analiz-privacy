@@ -2,6 +2,7 @@
 
 - Bu repository, Deprem Analiz uygulaması için hazırlanan gizlilik politikasını içerir.
 - Sayfa GitHub Pages üzerinden yayınlanmaktadır.
+- https://monsterpcsoft.github.io/deprem-analiz-privacy/
 
 ## Kullanım
 - index.html → Gizlilik Politikası sayfası
