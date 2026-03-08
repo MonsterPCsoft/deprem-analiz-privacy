@@ -1,4 +1,4 @@
-# deprem-analiz-privacy
+# Deprem Analiz Gizlilik Politikası
 - index.html → Gizlilik Politikası sayfası
 
 ## Kullanım
