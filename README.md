@@ -1,6 +1,6 @@
 # Deprem Analiz Gizlilik Politikası
 
-- Bu repository, Life Analysis uygulaması için hazırlanan gizlilik politikasını içerir.
+- Bu repository, Deprem Analiz uygulaması için hazırlanan gizlilik politikasını içerir.
 Sayfa GitHub Pages üzerinden yayınlanmaktadır:
 
 ## Kullanım
